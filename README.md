@@ -44,6 +44,8 @@ Rang Cameras are an affordable security feature that have built in motion detect
  <li><small><i><a href='https://github.com/simon-kowerski/RangSecurity/blob/main/README.md#-license-'>License</a></i></small></li>
  </ul>
  <h2> Image Gallery</h2>
+   <img src="file:///C:/Users/sirna/Pictures/RANG/text_notif.jpg" alt="Rang Text Notification">
+   <img src="file:///C:/Users/sirna/Pictures/RANG/email_notif.png" alt="Rang Email Notification">
  <h2> Downloads and Installation</h2>
  <h3> Downlad </h3>
  Here is the .zip file for you to download and add to any eclipse workspace. Eventually the final version of this project will be in a .exe format and will be found on Rang's company website (still in development)
